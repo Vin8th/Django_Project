@@ -1,9 +1,11 @@
 import os 
 
-db_user = os.environ.get('db_user')
-db_password = os.environ.get('db_pass')
+EMAIL_USER = os.environ.get('EMAIL_USER')
+EMAIL_PASS = os.environ.get('EMAIL_PASS')
+SECRET_KEY = os.environ.get('SECRET_KEY')
 
 new_pass='DJANGO123'
 
-print(db_user)
-print(db_password)
+print(EMAIL_USER)
+print(EMAIL_PASS)
+print(SECRET_KEY)
