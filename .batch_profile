@@ -1,6 +1,6 @@
-export SECRET_KEY="5dea0e3d34833d757b6712bef8ed7567188d06b7b155387c"
+export SECRET_KEY="****************"
 export DEBUG_VALUE="True"
 
-export AWS_ACCESS_KEY_ID="AKIAY67GKDQU2JF426TD"
-export AWS_SECRET_ACCESS_KEY="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"
+export AWS_ACCESS_KEY_ID="**************"
+export AWS_SECRET_ACCESS_KEY="*************"
 export AWS_STORAGE_BUCKET_NAME="django-blog-files-vineeth"
